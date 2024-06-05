@@ -1,4 +1,4 @@
 # hello-world
 Just another repository
 
-I am Gary, I am 38 and 3/5 and I like Java, C#, Python and long hot baths.
+I am Gary, I am 43 and 1/2 and I like Java, C# and SQL.
